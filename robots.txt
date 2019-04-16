@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aeshoonahp.nicoleleffel.com/sitemap.xml
